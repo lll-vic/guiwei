@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.DS_Store
+.local/
+*.log
+outputs/
+repo-to-practice/
+.env
+.env.*
+*.zip
